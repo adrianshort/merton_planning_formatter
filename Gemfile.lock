@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    merton_planning_formatter (0.1.0)
+    merton_planning_formatter (0.1.1)
       pragmatic_segmenter
 
 GEM
