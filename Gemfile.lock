@@ -1,0 +1,29 @@
+PATH
+  remote: .
+  specs:
+    merton_planning_formatter (0.1.0)
+      pragmatic_segmenter
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.2)
+    method_source (1.0.0)
+    pragmatic_segmenter (0.3.22)
+      unicode
+    pry (0.13.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    rake (12.3.3)
+    unicode (0.4.4.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  merton_planning_formatter!
+  pry (~> 0.11)
+  rake (~> 12.0)
+
+BUNDLED WITH
+   2.1.4
